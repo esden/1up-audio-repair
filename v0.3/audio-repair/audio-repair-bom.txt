@@ -1,0 +1,21 @@
+Reference	Quantity	Value	Footprint	Datasheet	Source
+C1, 	1	10µF	Capacitors_SMD:C_0603		ANY
+C11, C2, C3, C4, 	4	100nF	Capacitors_SMD:C_0603		ANY
+C5, 	1	10nF	Capacitors_SMD:C_0603		ANY
+C6, 	1	1µF	Capacitors_SMD:C_0603		ANY
+C7, C8, 	2	220nF	Capacitors_SMD:C_0603		ANY
+C10, C9, 	2	220µF	Capacitors_SMD:C_1210		ANY
+J1, 	1	Vin	Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm		ANY
+J2, 	1	Switchcraft_35RAPC4BHN3	audio-repair:Switchcraft_35RAPC4BHN3	
+J4, 	1	Left	Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm		ANY
+J6, 	1	Right	Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm		ANY
+R1, 	1	100K	Resistors_SMD:R_0603		ANY
+R10, 	1	10K	Resistors_SMD:R_0603		ANY
+R2, 	1	680K	Resistors_SMD:R_0603		ANY
+R3, 	1	1M	Resistors_SMD:R_0603		ANY
+R6, R8, 	2	33K	Resistors_SMD:R_0603		ANY
+R7, 	1	18K	Resistors_SMD:R_0603		ANY
+R9, 	1	51K	Resistors_SMD:R_0603		ANY
+RV1, 	1	50K	audio-repair:Potentiometer_Bourns_3352T		ANY
+U1, 	1	PAM8019KGR	audio-repair:QFN-20-1EP_4x4mm_Pitch0.5mm	
+U2, 	1	1bitsy-basic-stubby	audio-repair:1bitsy-stub	
